@@ -1,0 +1,5 @@
+$ git init project1
+$ cd project 1
+create file1.txt
+$ git add file1.txt
+$ git commit -m "myfirstcommmit"
